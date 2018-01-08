@@ -3041,6 +3041,7 @@ html.no-csstransitions .home-content__main {
 
 .s-contact {
     background-color: #151515;
+    background-image: url("../images/bg.jpg");
     background-repeat: no-repeat;
     background-position: center, center;
     padding-top: 13.2rem;
